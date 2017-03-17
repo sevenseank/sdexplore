@@ -22,7 +22,7 @@ def f(X, t):
     dydt = x+a*y
     dzdt = b+z*(x-c)
     #return np.zeros(2) 
-    return np.array([dxdt, dydt, dzdt])*0.1
+    return np.array([dxdt, dydt, dzdt])
 
 def g(X, t):
     #return np.diag([0., 0., 0.])
