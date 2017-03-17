@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sdeint
 
+# #######
 a = 1.0
 b = 1.0
 phi = 0.0
