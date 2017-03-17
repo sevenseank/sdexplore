@@ -14,7 +14,7 @@ tspan = np.linspace(0.0, 60*np.pi, 50001)
 #tspan = np.linspace(0.0, 2*60*np.pi, 2*5001)
 
 #X0 = np.array([1.0,0.,0.])
-X0 = np.array([-2., -4.,1.])
+X0 = np.array([-2., -5.,1.])
 
 def f(X, t):
     x,y,z = X
