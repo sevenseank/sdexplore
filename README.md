@@ -2,4 +2,4 @@
 to explore stochastic equations
 
 This is a test project for learning git's operations.
-This is master
+future1
