@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import sdeint
 
 # #######
+#  for testing 测试
 a = 1.0
 b = 1.0
 phi = 0.0
